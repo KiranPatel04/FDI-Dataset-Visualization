@@ -21,6 +21,7 @@ Here I have gone through the data and analysed visually and got insights on the 
 
 #### 3. Is there any trend of overall foreign direct investment(filter to select any individual sector)
 ![text](/images/overall_trend.png)
+
 The trend of sum of FDI Value for Fiscal Year.  Color shows sum of FDI Value. The marks are labeled by sum of FDI Value. The data is filtered on Sector, which keeps 63 of 63 members.
 
 #### 4. Which sectors reported high growth in FDI in last 5 years?
@@ -29,6 +30,7 @@ The view is filtered on Fiscal Year and Sector.
 
 #### 5. Which sectors reported highest decline in FDI in last 5 years?
 ![text](/images/hi_dec.png)
+
 % Difference in FDI Value broken down by Fiscal Year vs. Sector. The view is filtered on Fiscal Year and Sector. 
 
 #### 6. Which sectors reported the most variation overall?
@@ -36,6 +38,7 @@ The view is filtered on Fiscal Year and Sector.
 
 #### 7. What is the proportion of each sector in FDI?
 ![text](/images/prop.png)
+
 Color and Size show the sum of FDI Value.  The marks are labeled by Sector. The data is filtered on Fiscal Year, which keeps 17 of 17 members.
 
 #### 8. Are there some specific clusters that are present here?
@@ -43,10 +46,12 @@ Color and Size show the sum of FDI Value.  The marks are labeled by Sector. The 
 
 #### 9. What is the forecast for next year?
 ![text](/images/trend.png)
+
 The trend of sum of FDI Value (actual & forecast)  for Fiscal Year.  Color shows details about Forecast indicator. The data is filtered on Sector, which keeps 63 of 63 members.
 
-## Financial Report Dashboard:
+# FDI Report Dashboard:
 ![text](/images/dash1.png)
+
 ![text](/images/dash2.png)
 [Tableau Dashboard](https://public.tableau.com/profile/kiran8286#!/)
 
