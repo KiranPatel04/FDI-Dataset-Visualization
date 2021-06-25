@@ -26,6 +26,7 @@ The trend of sum of FDI Value for Fiscal Year.  Color shows sum of FDI Value. Th
 
 #### 4. Which sectors reported high growth in FDI in last 5 years?
 ![text](/images/hi_gro.png)
+
 The view is filtered on Fiscal Year and Sector. 
 
 #### 5. Which sectors reported highest decline in FDI in last 5 years?
